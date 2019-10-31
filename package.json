@@ -7,7 +7,7 @@
     "dev": "gatsby develop",
     "dev:clean": "gatsby clean && gatsby develop",
     "serve": "gatsby serve",
-    "http-server": "http-server -p 80"
+    "http-server": "gatsby build && http-server -p 80"
   },
   "dependencies": {
     "carbon-components-react": "^7.7.3",
