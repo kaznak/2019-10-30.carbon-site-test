@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "carbon-components-react": "^7.7.3",
-    "gatsby": "^2.17.7",
+    "gatsby": "^4.25.7",
     "gatsby-theme-carbon": "^1.15.2",
     "http-server": "^0.11.1",
     "react": "^16.11.0",
